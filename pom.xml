@@ -21,13 +21,13 @@
 
         <!--Versions-->
 
-        <java.level>8</java.level>
+        <java.level>11</java.level>
         <jenkins.version>2.7</jenkins.version>
 
         <!--Maven plugins-->
-        <maven-compiler-plugin.version>3.3</maven-compiler-plugin.version>
-        <maven-surefire-plugin.version>2.18.1</maven-surefire-plugin.version>
-        <jacoco.version>0.7.4.201502262128</jacoco.version>
+        <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
+        <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
+        <jacoco.version>0.8.5</jacoco.version>
 
         <!--Libraries-->
         <slf4j.version>1.7.29</slf4j.version>
